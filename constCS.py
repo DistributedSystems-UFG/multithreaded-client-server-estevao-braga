@@ -1,2 +1,2 @@
-HOST = '3.236.109.94'
+HOST = 'localhost'
 PORT = 5678
